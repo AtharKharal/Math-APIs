@@ -33,9 +33,3 @@ jobs:
           working-directory: .
           vercel-org-id: ${{ secrets.ORG_ID }}
           vercel-project-id: ${{ secrets.PROJECT_ID }}
-
-#         run: |
-#           npm install -g vercel
-#           vercel --token=$VERCEL_TOKEN --prod --confirm
-#         env:
-#           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
