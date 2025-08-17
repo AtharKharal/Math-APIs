@@ -1,0 +1,15 @@
+.md-typeset h1 {
+  font-size: 2.4rem;
+  color: #2a4d8f;
+  font-weight: bold;
+}
+
+.md-typeset .grid.cards {
+  margin-top: 1rem;
+}
+
+.md-typeset .grid.cards > * {
+  border-radius: 12px;
+  background: #f9fafc;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}

@@ -19,3 +19,5 @@ nav:
       - Haversine Distance: Haversine Distance.md
       - Handingover Graph Theory Model: Handingover Graph Theory Model.md
       - Graph Theoretic Problems in LEO: Graph Theoretic Problems in LEO.md
+extra_css:
+  - assets/custom.css
