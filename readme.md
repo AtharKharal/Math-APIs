@@ -35,6 +35,7 @@ The site will be available at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## 📦 Deployment
 
+
 Deployment is handled by **GitHub Actions**.  
 Every push to the `main` branch triggers a build and publishes the site automatically to Vercel.
 
