@@ -1,0 +1,21 @@
+site_name: Math API Docs
+site_author: Athar Kharal, PhD
+site_description: "Collection of mathematical API documentation and problem models"
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - APIs:
+      - Quadratic API: Quadratic API.md
+      - LEO Maneuver Planning API: LEO Maneuver Planning API.md
+  - Math Models:
+      - Haversine Distance: Haversine Distance.md
+      - Handingover Graph Theory Model: Handingover Graph Theory Model.md
+      - Graph Theoretic Problems in LEO: Graph Theoretic Problems in LEO.md
